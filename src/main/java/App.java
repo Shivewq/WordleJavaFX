@@ -8,7 +8,7 @@ import javafx.stage.Stage;
 import java.io.IOException;
 
 /**
- * JavaFX App setUp
+ * JavaFX App
  */
 public class App extends Application {
 
