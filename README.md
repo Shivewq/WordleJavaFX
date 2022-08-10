@@ -1,1 +1,3 @@
-# ICS4-JavaFX-Maven-Template
+JavaFX-Maven-Wordle
+
+take on the wordle web game, in JavaFX 
