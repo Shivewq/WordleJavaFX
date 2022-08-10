@@ -1,0 +1,23 @@
+.root {
+    -fx-background-color: "black";
+}
+
+.label {
+    -fx-text-alignment:center;
+    -fx-font-family: "Helvetica";
+    -fx-font-weight: bold;
+    -fx-text-fill: "white";
+}
+
+.button {
+    -fx-border-width: 43px;
+    -fx-border-height: 58px;
+    -fx-border-radius: 4px;
+    -fx-border: none;
+    -fx-background-color: #818384;
+    -fx-margin: 4px;
+}
+
+#check-box:selected {
+    -fx-background-color: white;
+}
